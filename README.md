@@ -38,3 +38,9 @@ project-folder/
 ├── style.css
 └── assets/
 └── images
+
+## 👩‍💻 Author
+Priti Daksh
+
+## 📄 License
+This project is for learning and internship purposes onl
